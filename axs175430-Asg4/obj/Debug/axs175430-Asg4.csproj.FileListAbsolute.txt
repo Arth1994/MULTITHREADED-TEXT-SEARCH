@@ -1,0 +1,10 @@
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\bin\Debug\axs175430-Asg4.exe.config
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\bin\Debug\axs175430-Asg4.exe
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\bin\Debug\axs175430-Asg4.pdb
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\obj\Debug\axs175430-Asg4.csprojAssemblyReference.cache
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\obj\Debug\axs175430_Asg4.Form1.resources
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\obj\Debug\axs175430_Asg4.Properties.Resources.resources
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\obj\Debug\axs175430-Asg4.csproj.GenerateResource.cache
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\obj\Debug\axs175430-Asg4.csproj.CoreCompileInputs.cache
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\obj\Debug\axs175430-Asg4.exe
+C:\Users\ARTH\source\repos\axs175430-Asg4\axs175430-Asg4\obj\Debug\axs175430-Asg4.pdb
